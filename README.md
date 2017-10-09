@@ -8,9 +8,7 @@ Repository contents:
 
 This was the presentation I gave at the conference. It was intended to be run as a live presentation, using [RISE](https://github.com/damianavila/RISE), but due to screen shape issues I ended up running through most of it as a normal jupyter notebook in the browser.
 
-#### PyConZA_2017_annotated.ipynb
-
-***coming soon*** 
+#### PyConZA_2017_annotated.ipynb ** ***coming soon*** **
 
 The same content as the presentation notebook, but with extra explanatory notes.
 
