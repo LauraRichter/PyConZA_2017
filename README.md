@@ -14,4 +14,4 @@ The same content as the presentation notebook, but with extra explanatory notes.
 
 #### simulate_loan_application_data.ipynb
 
-A notebook for creating simulated loan application data suitable for importing in the presentation notebooks. I use real, but anonymised and scrambled, data during the presentation.
+A notebook for creating simulated loan application data suitable for importing in the presentation notebooks. I use real (but anonymised and scrambled) data during the presentation.
