@@ -1,6 +1,6 @@
 ## Getting the most out of your pandas
 
-Presentation at [PyConZA 2017](za.pycon.org).
+Presentation at [PyConZA 2017](https://za.pycon.org/).
 
 Repository contents:
 
